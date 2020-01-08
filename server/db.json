@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Começando com ASP.NET Core",
+      "author": "André Baltieri",
+      "body": "Novo Post sobre o assunto"
+    },
+    {
+      "id": 2,
+      "title": "Começando com React",
+      "author": "André Baltieri",
+      "body": "Conteúdo inédito!"
+    }
+  ],
+  "comments": []
+}
